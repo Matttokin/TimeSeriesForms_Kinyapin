@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\bin\Debug\TimeSeriesForms_Kinyapin.exe.config
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\bin\Debug\TimeSeriesForms_Kinyapin.exe
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\bin\Debug\TimeSeriesForms_Kinyapin.pdb
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.Form1.resources
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.exe
+F:\Users\MrTokin\source\repos\TimeSeriesForms_Kinyapin\TimeSeriesForms_Kinyapin\obj\Debug\TimeSeriesForms_Kinyapin.pdb
